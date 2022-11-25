@@ -1,0 +1,10 @@
+1. Change button color on category pages:
+		Time Estimate: 30 minutes
+2. Increase submenu test size on mobile view:
+		Time Estimate: 30 minutes
+3.	Add 4 products above blue form on product category page:
+		Time Estimate: 10-11 Hours
+4.	 Upgrade the PHP version:
+		Time Estimate: 4-5 Hours
+
+The Total Time Estimate: 16-17 hours
